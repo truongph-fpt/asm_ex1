@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\bin\Debug\SMService.dll.config
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\bin\Debug\SMService.dll
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\bin\Debug\SMService.pdb
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\obj\Debug\SMService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\obj\Debug\SMService.dll
+C:\Users\Admin\source\repos\WCFServiceASM\SMService\obj\Debug\SMService.pdb
